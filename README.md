@@ -1,5 +1,5 @@
 
-## stanCodeProjects
+## _stanCode_ Projects
 - Here ismy programming projects in stanCode SC101 course.
 - python 3.9
 
